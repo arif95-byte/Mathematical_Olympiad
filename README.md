@@ -8,6 +8,7 @@ The goal of this project is to create algorithms and models that can solve trick
 
 ## Exploratory Data Analysis
 ![image](https://github.com/arif95-byte/Mathematical_Olympiad/assets/75437274/b5201b4f-2e7f-4f3e-924b-624f2770e0d9)
+
 The histogram above shows the distribution of answers in the dataset. It appears that the answers are spread over a range of values, with some clustering around certain values. This could indicate a variety of difficulty levels or types of problems.
 
 ## Machine Learning
